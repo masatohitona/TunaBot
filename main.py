@@ -244,6 +244,6 @@ async def on_message(message):
 
 
 # Main
-bot.run("NzY5NTM1OTAxNzU5OTYzMTM2.X5QcKA.vEDeFmZCNfOzGNb7NbsJ7H4jB88")
+bot.run("NzY5NTM1OTAxNzU5OTYzMTM2.X5QcKA.CvNf_mRi4viNmI2fnu6SbU6gDxM")
 # Test
-#bot.run("NzY5NTM1OTAxNzU5OTYzMTM2.X5QcKA.vEDeFmZCNfOzGNb7NbsJ7H4jB88")
+#bot.run("NzY5NTM1OTAxNzU5OTYzMTM2.X5QcKA.CvNf_mRi4viNmI2fnu6SbU6gDxM")
